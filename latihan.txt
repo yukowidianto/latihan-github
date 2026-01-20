@@ -1,1 +1,5 @@
 Baris 1 - latihan membuat Github
+
+Baris 2 - Menambahkan Baris Baris
+
+Baris 3 - Menambahkan Baris Baris Baris
